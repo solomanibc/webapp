@@ -1,0 +1,55 @@
+{
+  "Index": {
+    "nav": {
+      "home": "Home",
+      "product": "Product",
+      "about": "About us",
+      "pricing": "Pricing",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "A place for your business",
+      "description": "This is what makes our business good.",
+      "cta": "Learn More",
+      "imageAlt": "Business illustration"
+    },
+    "trusted": {
+      "title": "Trusted by 10,000+ companies of all sizes"
+    },
+    "feature": {
+      "title": "Simple and super-easy to use!",
+      "description": "We specialize in a range of services, including web design, digital marketing, and graphic design.",
+      "cta": "Learn more",
+      "imageAlt": "Feature illustration"
+    },
+    "services": {
+      "title": "Our Services",
+      "webDesign": {
+        "title": "Web Design",
+        "description": "Create stunning, responsive websites that engage your audience and drive conversions."
+      },
+      "digitalMarketing": {
+        "title": "Digital Marketing",
+        "description": "Boost your online presence with targeted campaigns and data-driven strategies."
+      },
+      "graphicDesign": {
+        "title": "Graphic Design",
+        "description": "Create visually appealing designs that communicate your brand's message effectively."
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "Your Email",
+      "messagePlaceholder": "Your Message",
+      "submit": "Send Message"
+    },
+    "footer": {
+      "description": "A place for your business to thrive and grow.",
+      "quickLinks": "Quick Links",
+      "services": "Services",
+      "followUs": "Follow Us",
+      "copyright": "© {year} Soloman IBC. All rights reserved."
+    }
+  }
+}

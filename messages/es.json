@@ -1,0 +1,55 @@
+{
+  "Index": {
+    "nav": {
+      "home": "Inicio",
+      "product": "Producto",
+      "about": "Sobre nosotros",
+      "pricing": "Precios",
+      "contact": "Contacto"
+    },
+    "hero": {
+      "title": "Un lugar para tu negocio",
+      "description": "Esto es lo que hace que nuestro negocio sea bueno.",
+      "cta": "Aprende más",
+      "imageAlt": "Ilustración de negocios"
+    },
+    "trusted": {
+      "title": "Confiado por más de 10,000 empresas de todos los tamaños"
+    },
+    "feature": {
+      "title": "¡Simple y súper fácil de usar!",
+      "description": "Nos especializamos en una gama de servicios, incluyendo diseño web, marketing digital y diseño gráfico.",
+      "cta": "Aprende más",
+      "imageAlt": "Ilustración de características"
+    },
+    "services": {
+      "title": "Nuestros Servicios",
+      "webDesign": {
+        "title": "Diseño Web",
+        "description": "Crea sitios web impresionantes y responsivos que atraigan a tu audiencia y generen conversiones."
+      },
+      "digitalMarketing": {
+        "title": "Marketing Digital",
+        "description": "Impulsa tu presencia en línea con campañas dirigidas y estrategias basadas en datos."
+      },
+      "graphicDesign": {
+        "title": "Diseño Gráfico",
+        "description": "Crea diseños visualmente atractivos que comuniquen eficazmente el mensaje de tu marca."
+      }
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "namePlaceholder": "Tu Nombre",
+      "emailPlaceholder": "Tu Email",
+      "messagePlaceholder": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "footer": {
+      "description": "Un lugar para que tu negocio prospere y crezca.",
+      "quickLinks": "Enlaces Rápidos",
+      "services": "Servicios",
+      "followUs": "Síguenos",
+      "copyright": "© {year} Soloman IBC. Todos los derechos reservados."
+    }
+  }
+}
